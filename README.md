@@ -1,7 +1,17 @@
-# KLD-Turk
-Kasutajaliideste disain ja arendus - näidis projekt - Sample Project. 
-This project is not mean to be distributed or used in a commercial and private way. 
 
+#### For school project I created a front-end clone of a page.
+#### Clone is created using React and MaterialUI.
+Original page: https://www.lhv.ee/et/ .
+ 
 
+### **Project setup:**
 
-Copyright (C) 2020 @el-tu
+Clone or download .zip. 
+
+In the project directory run:
+
+#### `npm install`
+#### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
