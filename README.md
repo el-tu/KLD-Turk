@@ -1,3 +1,5 @@
+## User Interface Design and Development
+TLU Subject
 
 #### For school project I created a front-end clone of a page.
 #### Clone is created using React and MaterialUI.
@@ -15,3 +17,4 @@ In the project directory run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
